@@ -8,6 +8,10 @@
 - [ ] Auth: Client @linh
 - [ ] Profile: Change password @linh
 - [ ] Authenticate: Reset password @linh
+- [ ] Chat @linh @truong
+- [ ] List user: online, offline @linh
+- [ ] History message @truong
+- [ ] Meeting room @truong @linh
 
 ### Completed features ✓
 - [x] Register account
