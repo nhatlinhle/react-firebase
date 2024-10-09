@@ -34,7 +34,7 @@ Thanks go to these wonderful people:
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/phamnhunhattruong24072001" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/54565060?v=4?s=100" width="100px;" alt="Kent C. Dodds"/>
+        <img src="https://avatars.githubusercontent.com/u/76764238?v=4" width="100px;" alt="Kent C. Dodds"/>
         <br />
         <sub><b>Nhat Truong</b></sub></a><br />
     </tr>
